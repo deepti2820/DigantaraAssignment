@@ -2,7 +2,7 @@
 
 This project is a **3-step dynamic multi-step form** for collecting user information. It includes form validation, dynamic navigation, and a summary view before submission. The form maintains state across steps and supports data persistence using `localStorage`.
 
----
+
 
 ##  Features
 
@@ -33,7 +33,7 @@ This project is a **3-step dynamic multi-step form** for collecting user informa
 - Stepper visually represents current step and progress.
 - Highlights completed steps dynamically.
 
----
+
   
  ##   Home Page
 ![Home Page](https://github.com/deepti2820/DigantaraAssignment/blob/main/Screenshot/Screenshot%202025-03-16%20105924.png)
