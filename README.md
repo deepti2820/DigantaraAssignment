@@ -28,11 +28,11 @@ This project is a **3-step dynamic multi-step form** for collecting user informa
 ![Home Page](https://github.com/deepti2820/DigantaraAssignment/blob/main/Screenshot/Screenshot%202025-03-16%20105924.png)
 
 
-   Error Message
+ ##  Error Message
 ![Home Page](https://github.com/deepti2820/DigantaraAssignment/blob/main/Screenshot/Screenshot%202025-03-16%20105954.png)
 
 
-   Review and Submit
+ ##  Review and Submit
 ![Home Page](https://github.com/deepti2820/DigantaraAssignment/blob/main/Screenshot/Screenshot%202025-03-16%20110025.png)
 
 ### ✅ State Management:
