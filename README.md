@@ -22,8 +22,9 @@ This project is a **3-step dynamic multi-step form** for collecting user informa
 - "Next" and "Back" buttons allow seamless navigation.
 - Users can edit previously entered data before final submission.
 
+---
   
-    Home Page
+ ##   Home Page
 ![Home Page](https://github.com/deepti2820/DigantaraAssignment/blob/main/Screenshot/Screenshot%202025-03-16%20105924.png)
 
 
