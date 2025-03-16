@@ -53,11 +53,11 @@ This project is a **3-step dynamic multi-step form** for collecting user informa
 ## 📂 Project Structure
 ```
 multistep-form/
-├── index.html      # Main HTML structure
+├── index1.html      # Main HTML structure
 ├── styles.css      # CSS for styling
-├── script.js       # JavaScript logic for form navigation & validation
+├── script1.js       # JavaScript logic for form navigation & validation
 ├── README.md       # Project documentation
-└── assets/         # Contains images/icons (if any)
+
 ```
 
 ---
@@ -65,13 +65,13 @@ multistep-form/
 ## 🛠️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multistep-form.git
+   git clone https://github.com/deepti2820/multistep-form.git
    ```
 2. Navigate to the project folder:
    ```bash
    cd multistep-form
    ```
-3. Open `index.html` in a browser.
+3. Open `index1.html` in a browser.
 4. Start filling out the form!
 
 ---
