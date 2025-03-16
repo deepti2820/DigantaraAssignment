@@ -22,6 +22,18 @@ This project is a **3-step dynamic multi-step form** for collecting user informa
 - "Next" and "Back" buttons allow seamless navigation.
 - Users can edit previously entered data before final submission.
 
+  ### ✅ State Management:
+- Uses JavaScript objects for local state management.
+- Saves form progress in `localStorage` to persist data across refreshes.
+
+### ✅ Responsive Design:
+- Works across all screen sizes using **CSS Flexbox & Media Queries**.
+- Mobile-friendly layout.
+
+### ✅ Progress Indicator:
+- Stepper visually represents current step and progress.
+- Highlights completed steps dynamically.
+
 ---
   
  ##   Home Page
@@ -35,20 +47,6 @@ This project is a **3-step dynamic multi-step form** for collecting user informa
  ##  Review and Submit
 ![Home Page](https://github.com/deepti2820/DigantaraAssignment/blob/main/Screenshot/Screenshot%202025-03-16%20110025.png)
 
-### ✅ State Management:
-- Uses JavaScript objects for local state management.
-- Saves form progress in `localStorage` to persist data across refreshes.
-
-### ✅ Responsive Design:
-- Works across all screen sizes using **CSS Flexbox & Media Queries**.
-- Mobile-friendly layout.
-
-### ✅ Progress Indicator:
-- Stepper visually represents current step and progress.
-- Highlights completed steps dynamically.
-
-### ✅ Animations (Bonus):
-- Smooth transitions between steps using CSS animations.
 
 ---
 
