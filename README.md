@@ -1,6 +1,5 @@
 # Multi-Step Form
 
-##  Overview
 This project is a **3-step dynamic multi-step form** for collecting user information. It includes form validation, dynamic navigation, and a summary view before submission. The form maintains state across steps and supports data persistence using `localStorage`.
 
 ---
