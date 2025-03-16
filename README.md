@@ -33,6 +33,28 @@ This project is a **3-step dynamic multi-step form** for collecting user informa
 - Stepper visually represents current step and progress.
 - Highlights completed steps dynamically.
 
+##  Project Structure
+```
+multistep-form/
+├── index1.html      # Main HTML structure
+├── styles.css      # CSS for styling
+├── script1.js       # JavaScript logic for form navigation & validation
+├── README.md       # Project documentation
+
+```
+
+
+##  Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/deepti2820/DigantaraAssignment
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd DigantaraAssignment
+   ```
+3. Open `index1.html` in a browser.
+4. Start filling out the form!
 
   
  ##   Home Page
@@ -47,31 +69,7 @@ This project is a **3-step dynamic multi-step form** for collecting user informa
 ![Home Page](https://github.com/deepti2820/DigantaraAssignment/blob/main/Screenshot/Screenshot%202025-03-16%20110025.png)
 
 
----
 
-##  Project Structure
-```
-multistep-form/
-├── index1.html      # Main HTML structure
-├── styles.css      # CSS for styling
-├── script1.js       # JavaScript logic for form navigation & validation
-├── README.md       # Project documentation
-
-```
-
----
-
-## 🛠 Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/deepti2820/DigantaraAssignment
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd DigantaraAssignment
-   ```
-3. Open `index1.html` in a browser.
-4. Start filling out the form!
 
 
 
